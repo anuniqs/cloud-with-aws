@@ -8,15 +8,13 @@ Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopte
 
 https://aws.amazon.com/what-is-aws/
 
-### Why AWS amazon web services —
-
 1. Global cloud platform - Which allows host and manages sevices on the internet
 2. Infrustructure as a service
 3. Platform as a service
 4. Software as a service
 5. Cloud storage platform
 
-### Why good —
+### Why AWS good —
 
 1. Per hour billing for almost everything
 2. Simply billing and region specific pricing
