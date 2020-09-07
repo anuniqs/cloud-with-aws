@@ -22,7 +22,7 @@ https://aws.amazon.com/what-is-aws/
 4. Avalibility , multiple availibility zones per region
 5. Trusted vendor
 
-### Service Overview —
+### Services Overview —
 
 1. EC2 (Elastic Computing Cloud)
 2. VPC (Virtual Private Cloud)
